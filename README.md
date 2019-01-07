@@ -1,10 +1,10 @@
 # UOC-Red-Wine-Quality
-Practica sobre el dataset - Red Wine Quality
+Práctica 2: Limpieza y validación de los datos - Red Wine Quality
 
 
 ## Autor
 
-Francisco Ramirez Fominaya, ignacio.bengis@gmail.com
+Francisco Ramirez Fominaya, frf.dnpg@gmail.com
 
 ## Acerca de este software
 
@@ -12,7 +12,7 @@ Francisco Ramirez Fominaya, ignacio.bengis@gmail.com
 * Asignatura: Tipologia y ciclo de vida de los datos.
 * Master de Data Science.
 * [Universitat Oberta of Catalunya.](http://www.uoc.edu/portal/ca/index.html)
-* Consultora: Mireia Calvo Gonzalez
+* Consultora: Mireia Calvo Gonzalez y Laila Subirats Maté
 
 ## Dataset
 
