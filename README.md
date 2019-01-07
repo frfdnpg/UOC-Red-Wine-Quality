@@ -18,7 +18,7 @@ Francisco Ramirez Fominaya, ignacio.bengis@gmail.com
 
 Puede chequear el dataset en la siguiente dirección:
 
-[https://github.com/Bengis/nba-gap-cleaning/blob/master/data/nba_out.csv](https://github.com/Bengis/nba-gap-cleaning/blob/master/data/nba_out.csv)
+[https://github.com/frfdnpg/UOC-Red-Wine-Quality](https://github.com/frfdnpg/UOC-Red-Wine-Quality)
 
 ## Licencia
 
